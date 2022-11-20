@@ -2,3 +2,5 @@
 Application for metrohacks 2022. This is a application to quickly and intuitively help determine common/basic medical issues and deal with them.
 AMONG US
 AMONG US AMONG US
+
+here is my video: https://youtu.be/bsmQsHDpmKo
